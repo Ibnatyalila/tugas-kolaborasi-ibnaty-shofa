@@ -6,5 +6,5 @@ Setiap anggota kelompok diminta untuk melakukan
 perubahan pada file `data.txt`.
 
 ## Anggota Kelompok
-- Nama Anggota 1
+- Ibnaty Alilatulbariza (2403686)
 - Nama Anggota 2
