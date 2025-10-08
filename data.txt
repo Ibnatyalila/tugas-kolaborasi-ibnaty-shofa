@@ -2,5 +2,5 @@ Daftar kontribusi:
 
 - [ibnaty] Anggota 1 menambahkan satu baris teks di
 sini.
-- [shofa] Anggota 2 menambahkan satu baris teks di
+- [ Siti Shofa] Anggota 2 menambahkan satu baris teks di
 sini.

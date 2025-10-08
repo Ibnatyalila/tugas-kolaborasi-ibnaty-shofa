@@ -7,4 +7,4 @@ perubahan pada file `data.txt`.
 
 ## Anggota Kelompok
 - Ibnaty Alilatulbariza (2403686)
-- Nama Anggota 2
+- Siti Shofa(2404966)
